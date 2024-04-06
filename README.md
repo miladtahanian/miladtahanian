@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milad Tahanian.
+- 👋 Hi, I’m @MiladTahanian.
 - 👀 I’m interested in React Native, Android, iOS Development.
 - 🌱 I’m currently learning and exploring new ideas.
 - 📫 Want to reach me? mail me at: miladtahanianofficial@gmail.com or Send PM to my Telegram ID: https://t.me/miladtahanian
