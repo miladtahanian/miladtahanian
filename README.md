@@ -9,9 +9,9 @@
 
 - 💪🏼 Working on self-made projects such as [Zabannian](https://zabannian.ir/)
 
-- 👁️ View my projects made by the 💕 React Native: 
+- 👁️ View my projects made by the 💕 React Native 💕: 
 <p align="left"> <a href="https://cafebazaar.ir/developer/tahanian">
-  <img width="250" height="90" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.cafebazaar.ir%2Fen%2Fguidelines%2Flearn-more%2Fapplication-badge&psig=AOvVaw0C4FUEKPMdgLRJrOjWCn0r&ust=1723045457637000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCX5fHa4IcDFQAAAAAdAAAAABAE" alt ="tr"/>
+  <img width="210" height="62" src="http://s.cafebazaar.ir/2/images/badge-new.png" alt ="tr"/>
 </a> </p>
 
 - 📫 Any project for React Native Development? Reach me at [My Email](mailto:miladtahanianofficial@gmail.com), [Telegram](https://t.me/miladtahanian), [Instagram](https://instagram.com/tahanianmilad), [LinkedIn](https://www.linkedin.com/in/milad-tahanian-5a32a3303/)
