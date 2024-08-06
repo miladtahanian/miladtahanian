@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladtahanian" alt="miladtahanian" /></a> </p>
 
-- 🔭 I’m currently working on **my self-projects**
+- 🔭 I’m currently working on **self-projects** Such as [Zabannian](https://zabannian.ir)
 
-- 🌱 I’m currently learning **Flutter, Dart, Kotlin, Python, React, React Native, NodeJS, Android & iOS Development**
+- 🌱 I’m currently learning and developing apps in **React, React Native, Android & iOS Development, NextJS and ExpressJS** and you can ask me about them.
 
 - 👨‍💻 All of my projects are available at [https://github.com/miladtahanian](https://github.com/miladtahanian)
 
-- 📝 I regularly write articles on [https://miladtahanian.github.io/](https://miladtahanian.github.io/)
+- 📫 How to reach me: [Telegram](https://t.me/miladtahanian), [Mail me](mailto:miladtahanianofficial@gmail.com), PM me on [Instagram](https://instagram.com/tahanianmilad)
 
-- 💬 Ask me about **React, ReactNative, Node, Python, Flutter**
-
-- 📫 How to reach me **https://t.me/miladtahanian** **miladtahanianofficial@gmail.com** 
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/milad-tahanian-5a32a3303/](https://www.linkedin.com/in/milad-tahanian-5a32a3303/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/milad-tahanian-5a32a3303/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
