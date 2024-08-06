@@ -11,7 +11,7 @@
 
 - 👁️ View my projects made by the 💕 React Native 💕: 
 <p align="left"> <a href="https://cafebazaar.ir/developer/tahanian">
-  <img width="210" height="62" src=http://s.cafebazaar.ir/2/images/badge-new.png alt="tr"/>
+  ![Product Name Screen Shot][cafebazaar-badge]
 </a> </p>
 
 - 📫 Any project for React Native Development? Reach me at [My Email](mailto:miladtahanianofficial@gmail.com), [Telegram](https://t.me/miladtahanian), [Instagram](https://instagram.com/tahanianmilad), [LinkedIn](https://www.linkedin.com/in/milad-tahanian-5a32a3303/)
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miladtahanian&show_icons=true&locale=en" alt="miladtahanian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladtahanian&" alt="miladtahanian" /></p>
+
+[cafebazaar-badge]: badge-new.png
