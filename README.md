@@ -14,7 +14,7 @@
   <img width="210" height="62" src="cafebazaarbadge.png" alt="Milad Tahanian's Cafe Bazaar Developer Page" />
 </a> </p>
 
-- 📫 Any project for React Native Development? Reach me at [My Email](mailto:miladtahanianofficial@gmail.com), [Telegram](https://t.me/miladtahanian), [Instagram](https://instagram.com/tahanianmilad), [LinkedIn](https://www.linkedin.com/in/milad-tahanian-5a32a3303/)
+- 📫 Reach me at [My Email](mailto:miladtahanianofficial@gmail.com), [Telegram](https://t.me/miladtahanian), [Instagram](https://instagram.com/tahanianmilad), [LinkedIn](https://www.linkedin.com/in/milad-tahanian-5a32a3303/)
 
 - 🌱 I’m currently learning **PHP, Next.JS, ExpressJS, .Net & etc.**
 
