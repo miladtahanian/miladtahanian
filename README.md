@@ -5,8 +5,6 @@
 
 <p align="center"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="Programming Jokes!"/> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladtahanian" alt="miladtahanian" /></a> </p>
-
 - 💪🏼 Working on self-made projects
 
 - 👁️ View my projects made by the 💕 React Native 💕
