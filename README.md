@@ -63,30 +63,8 @@ AI Tools Integration • Automation
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miladtahanian&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miladtahanian&theme=tokyonight&hide_border=true&ring=61DAFB&fire=61DAFB" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladtahanian&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miladtahanian&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miladtahanian/miladtahanian/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 # 🚀 Services I Offer
@@ -112,8 +90,10 @@ AI Tools Integration • Automation
 # 📫 Contact Me
 
 - GitHub: https://github.com/miladtahanian  
-- LinkedIn: (add here)  
-- Email: (add here)  
+- LinkedIn: https://www.linkedin.com/in/milad-tahanian-5a32a3303/
+- Email: miladtahanianofficial@gmail.com
+- Telegram: https://t.me/miladtahanian
+- Instagram: https://instagram.com/tahanianmilad
 
 ---
 
